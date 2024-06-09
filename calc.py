@@ -34,3 +34,5 @@ Calculate()
 #b1
 
 #origin from test
+
+#new rule from test
