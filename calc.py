@@ -1,3 +1,12 @@
+def multiply(x, y):
+  return x * y
+
+def divide(x, y):
+  if y == 0:
+    print("Cannot divide by zero. Try again...")
+    return Calculate()
+  return round(x / y, 2)
+
 def Calculate():
   s = input()
   lst = s.split(" ")
